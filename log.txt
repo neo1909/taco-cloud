@@ -1,0 +1,2 @@
+2019-12-18 01:06:51.754  INFO 2888 --- [RMI TCP Connection(84)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-18 01:06:52.184  INFO 2888 --- [RMI TCP Connection(84)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
